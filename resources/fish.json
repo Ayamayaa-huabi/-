@@ -1,0 +1,2347 @@
+[
+  {
+    "name": "芭蕾蓬蓬鱼",
+    "name_tw": "芭蕾蓬蓬魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "幻光鱼",
+    "name_tw": "幻光魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "甲方满意鱼",
+    "name_tw": "甲方滿意魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "蓝眼泪",
+    "name_tw": "藍眼淚",
+    "type": "冰钓轻竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "飞机头",
+    "name_tw": "飛機頭",
+    "type": "冰钓轻竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "华丽鳅",
+    "name_tw": "華麗鰍",
+    "type": "池塘轻竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "小雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "鳅鳅鱼",
+    "name_tw": "鰍鰍魚",
+    "type": "冰钓轻竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "冰钓轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "拟岩鱼",
+    "name_tw": "擬岩魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "鬼刀鱼",
+    "name_tw": "鬼刀魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "陶艺鱼",
+    "name_tw": "陶藝魚",
+    "type": "池塘重竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "小雨",
+              "大雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "黑鲫鱼",
+    "name_tw": "黑鯽魚",
+    "type": "池塘轻竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "上午"
+            ],
+            "weather": [
+              "晴天",
+              "小雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "粗红线",
+    "name_tw": "粗紅線",
+    "type": "冰钓轻竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "水法老",
+    "name_tw": "水法老",
+    "type": "冰钓重竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "辐射鲈",
+    "name_tw": "輻射鱸",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "春季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "地包天鱼",
+    "name_tw": "地包天魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "春季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "黄鸭叫",
+    "name_tw": "黃鴨叫",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "极道鱼",
+    "name_tw": "極道魚",
+    "type": "池塘重竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "大雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "鬼牙鱼",
+    "name_tw": "鬼牙魚",
+    "type": "冰钓重竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "大罐子鱼",
+    "name_tw": "大罐子魚",
+    "type": "冰钓重竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "小雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "鬼虎鱼",
+    "name_tw": "鬼虎魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "黄昏"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "牡丹鱼",
+    "name_tw": "牡丹魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "平凡鱼",
+    "name_tw": "平凡魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "流浪剑客",
+    "name_tw": "流浪劍客",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "宇航鱼",
+    "name_tw": "宇航魚",
+    "type": "池塘轻竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "烟花鱼",
+    "name_tw": "煙花魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "路易鱼",
+    "name_tw": "路易魚",
+    "type": "冰钓轻竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "大雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "泥猴子",
+    "name_tw": "泥猴子",
+    "type": "冰钓轻竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "小雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "光斑鱼",
+    "name_tw": "光斑魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "美髯公",
+    "name_tw": "美髯公",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "海底豚",
+    "name_tw": "海底豚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "码头",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "嘟嘟鱼",
+    "name_tw": "嘟嘟魚",
+    "type": "冰钓重竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "小雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "保洁鱼",
+    "name_tw": "保潔魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "骗子鱼",
+    "name_tw": "騙子魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "码头",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "势利眼",
+    "name_tw": "勢利眼",
+    "type": "池塘轻竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "呆呆鲶",
+    "name_tw": "呆呆鯰",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "小雪"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "七星刀",
+    "name_tw": "七星刀",
+    "type": "冰钓重竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "狗头鱼",
+    "name_tw": "狗頭魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "岸边",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "春季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "尖齿鱼",
+    "name_tw": "尖齒魚",
+    "type": "池塘重竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "大雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 2
+  },
+  {
+    "name": "教练鱼",
+    "name_tw": "教練魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "岸边"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "黄昏",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "阿宝鱼",
+    "name_tw": "阿寶魚",
+    "type": "池塘轻竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "小雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "视觉系",
+    "name_tw": "視覺系",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "猪鼻鱼",
+    "name_tw": "豬鼻魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "拷贝鱼",
+    "name_tw": "拷貝魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "筷子鳝",
+    "name_tw": "筷子鱔",
+    "type": "冰钓重竿",
+    "locations": [
+      {
+        "location": "冰洞",
+        "conditions": [
+          {
+            "time_of_day": [
+              "黄昏",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "大雪"
+            ],
+            "season": [
+              "冬季"
+            ],
+            "rarity": "冰钓重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "青瓷鱼",
+    "name_tw": "青瓷魚",
+    "type": "池塘重竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "大雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "鳄霸鱼",
+    "name_tw": "鱷霸魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "河湾",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "大雪",
+              "小雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "熔岩鱼",
+    "name_tw": "熔岩魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "沉船"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "冰河鲟",
+    "name_tw": "冰河鱘",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "春季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "雷鳗",
+    "name_tw": "雷鰻",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河湾",
+          "沉船"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 4
+  },
+  {
+    "name": "发财鲤",
+    "name_tw": "發財鯉",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河湾",
+          "岸边"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 4
+  },
+  {
+    "name": "冰溜子鱼",
+    "name_tw": "冰溜子魚",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "大雪"
+            ],
+            "season": [
+              "春季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 4
+  },
+  {
+    "name": "象鼻鱼",
+    "name_tw": "象鼻魚",
+    "type": "池塘重竿",
+    "locations": [
+      {
+        "location": "池塘",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "雾天",
+              "大雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "池塘重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 4
+  },
+  {
+    "name": "果冻鱼",
+    "name_tw": "果凍魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "巨石",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "罗汉鱼",
+    "name_tw": "羅漢魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "岸边",
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 6
+  },
+  {
+    "name": "剑龙鱼",
+    "name_tw": "劍龍魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "河中央",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "小雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 6
+  },
+  {
+    "name": "粉丝虾",
+    "name_tw": "粉絲蝦",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "狼蛛蟹",
+    "name_tw": "狼蛛蟹",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "雾天",
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "蝌蚪宝宝",
+    "name_tw": "蝌蚪寶寶",
+    "alias": "金蛙",
+    "show_in_pokedex": false,
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "大蝌蚪",
+    "name_tw": "大蝌蚪",
+    "alias": "金蛙",
+    "show_in_pokedex": false,
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "幼蛙",
+    "name_tw": "幼蛙",
+    "alias": "金蛙",
+    "show_in_pokedex": false,
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "青蛙",
+    "name_tw": "青蛙",
+    "alias": "金蛙",
+    "show_in_pokedex": false,
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "金蛙",
+    "name_tw": "金蛙",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "下午",
+              "黄昏"
+            ],
+            "weather": [
+              "晴天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "拳击虾",
+    "name_tw": "拳擊蝦",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "大师龟",
+    "name_tw": "大師龜",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "河湾",
+          "码头",
+          "岸边",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "小雪"
+            ],
+            "season": [
+              "春季",
+              "夏季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 1
+  },
+  {
+    "name": "夜明珠",
+    "name_tw": "夜明珠",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河中央",
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "上午",
+              "下午"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "钱袋",
+    "name_tw": "錢袋",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "河湾",
+          "码头",
+          "沉船"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "奇怪的东西",
+    "name_tw": "奇怪的東西",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "码头",
+          "岸边",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "娃娃鱼",
+    "name_tw": "娃娃魚",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": [
+          "河湾",
+          "岸边",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "清晨"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "夏季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 3
+  },
+  {
+    "name": "戒指",
+    "name_tw": "戒指",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": [
+          "沉船",
+          "巨石"
+        ],
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "雾天"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 4
+  },
+  {
+    "name": "不明化石",
+    "name_tw": "不明化石",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "清晨",
+              "深夜"
+            ],
+            "weather": [
+              "晴天",
+              "大雪"
+            ],
+            "season": [
+              "春季",
+              "秋季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "远古晶石",
+    "name_tw": "遠古晶石",
+    "alias": "不明的机械",
+    "show_in_pokedex": false,
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "上午"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "原始骨刀",
+    "name_tw": "原始骨刀",
+    "alias": "不明的机械",
+    "show_in_pokedex": false,
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "上午"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "冰封橡果",
+    "name_tw": "冰封橡果",
+    "alias": "不明的机械",
+    "show_in_pokedex": false,
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "上午"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "剑齿虎头骨",
+    "name_tw": "劍齒虎頭骨",
+    "alias": "不明的机械",
+    "show_in_pokedex": false,
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "上午"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "不明的机械",
+    "name_tw": "不明的機械",
+    "type": "路亚重竿",
+    "locations": [
+      {
+        "location": "沉船",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "上午"
+            ],
+            "weather": [
+              "小雪",
+              "大雪"
+            ],
+            "season": [
+              "秋季",
+              "冬季"
+            ],
+            "rarity": "路亚重竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  },
+  {
+    "name": "抱抱蝾",
+    "name_tw": "抱抱蠑",
+    "type": "路亚轻竿",
+    "locations": [
+      {
+        "location": "河湾",
+        "conditions": [
+          {
+            "time_of_day": [
+              "凌晨",
+              "深夜"
+            ],
+            "weather": [
+              "大雨",
+              "小雨"
+            ],
+            "season": [
+              "春季"
+            ],
+            "rarity": "路亚轻竿"
+          }
+        ]
+      }
+    ],
+    "rarity_level": 5
+  }
+]
