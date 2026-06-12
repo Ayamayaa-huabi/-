@@ -16,14 +16,15 @@ jobs:
         with:
           python-version: '3.10'
 
-      - name: Install PyInstaller only
-        run: pip install pyinstaller
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install pyinstaller
+          pip install qfluentwidgets PySide6 opencv-python pillow numpy shapely onnxruntime psutil pyclipper pygame rapidfuzz rapidocr_onnxruntime pywin32 pyyaml
 
       - name: Build with PyInstaller
         run: |
-          # 添加当前目录到 PYTHONPATH，让 PyInstaller 能找到仓库中的库
-          $env:PYTHONPATH = "."
-          pyinstaller --onefile --add-data "src;src" --paths . main.py
+          pyinstaller --onefile --add-data "src;src" main.py
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
